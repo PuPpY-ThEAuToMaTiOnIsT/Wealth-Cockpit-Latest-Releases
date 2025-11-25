@@ -54,21 +54,7 @@ Wealth Cockpit is built with Python and Flet.
 
 ### Get Started
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/wealth-cockpit.git
-    cd wealth-cockpit
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    pip install flet
-    ```
-
-3.  **Run the application:**
-    ```bash
-    python main.py
-    ```
+Check release section
 
 ## Usage Guide
 
@@ -82,10 +68,6 @@ Wealth Cockpit is built with Python and Flet.
 *   **Language**: Python
 *   **UI Framework**: [Flet](https://flet.dev/) (Flutter for Python)
 *   **Storage**: Local Client Storage
-
-## License
-
-MIT License - feel free to modify and distribute as you see fit.
 
 ---
 *Take control of your financial destiny with Wealth Cockpit.*
