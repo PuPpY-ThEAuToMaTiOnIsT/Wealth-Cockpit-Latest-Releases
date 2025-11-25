@@ -4,8 +4,6 @@
 
 Wealth Cockpit is a powerful, secure, and offline-first personal finance dashboard designed for those who take their financial independence seriously. Track your Net Worth, Asset Allocation, and FIRE (Financial Independence, Retire Early) progress without ever sending a single byte of data to the cloud.
 
-![Wealth Cockpit Dashboard](https://via.placeholder.com/800x400?text=Wealth+Cockpit+Dashboard+Preview)
-
 ## Why Wealth Cockpit?
 
 In an era of data breaches and subscription fatigue, Wealth Cockpit stands apart:
